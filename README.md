@@ -1,11 +1,11 @@
-Introduction
+### Introduction
 
 Our hotel management application makes it easy for both admins and users to manage rooms, bookings, and offers. It's built with TypeScript to help catch errors early and make the code more reliable. We use modern tools like React, Vite, and MUI to create a fast and user-friendly experience.
 
 
 ---
 
-Admin Panel
+### `Admin Panel`
 
 Features:
 
@@ -23,16 +23,16 @@ Ads-Offers Section: Admins can create, edit, and display special offers, includi
 
 ---
 
-User Panel
+## User Panel
 
-Guest Users:
+### `Guest Users`:
 
 Room Search: Users can search for available rooms by providing check-in and check-out dates.
 
 Current Offers: View special offers directly from the platform.
 
 
-Registered Users:
+### `Registered Users`:
 
 Room Booking: Registered users can book rooms and manage their reservations.
 
@@ -48,7 +48,7 @@ Dashboard Access: Users can track room availability and view bookings from their
 
 ---
 
-Features and Tools
+## Features and Tools
 
 Our platform is powered by the following tools and libraries:
 
