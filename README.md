@@ -1,13 +1,13 @@
-### Introduction
+## Introduction
 
 Our hotel management application makes it easy for both admins and users to manage rooms, bookings, and offers. It's built with TypeScript to help catch errors early and make the code more reliable. We use modern tools like React, Vite, and MUI to create a fast and user-friendly experience.
 
 
 ---
 
-### `Admin Panel`
+## Admin Panel
 
-Features:
+### `Features`:
 
 Valid Authorization: Secure access control to protect sensitive data.
 
